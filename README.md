@@ -1,0 +1,2 @@
+# Mutual-friend-suggestion-algorithm
+Here, I devoloped an algorithm that reads an csv file which is having the data of various friends and linkage of a particular class along with their identification details. Then the algorithm takes an  input from user "whose mutual they want to know" ,and accordingly it suggests mutual friends depending upon similarities and level of connections in friends netword.  This algorithm uses of various graph algorithms like dijktra ,bfs etc
